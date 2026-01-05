@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Ivan",
+    "surname": "Petrov",
+    "phone": "+79001112233",
+    "subscribed": true,
+    "favoriteBooks": [
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishYear": 1813,
+        "isbn": "978-0141439518",
+        "publisher": "Penguin Classics"
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "publishYear": 1949,
+        "isbn": "978-0451524935",
+        "publisher": "Signet Classics"
+      }
+    ]
+  },
+  {
+    "name": "Anna",
+    "surname": "Ivanova",
+    "phone": "+79002223344",
+    "subscribed": false,
+    "favoriteBooks": [
+      {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "publishYear": 1869,
+        "isbn": "978-0199232765",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "publishYear": 1949,
+        "isbn": "978-0451524935",
+        "publisher": "Signet Classics"
+      }
+    ]
+  },
+  {
+    "name": "Sergey",
+    "surname": "Sidorov",
+    "phone": "+79003334455",
+    "subscribed": true,
+    "favoriteBooks": [
+      {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "publishYear": 1937,
+        "isbn": "978-0547928227",
+        "publisher": "Houghton Mifflin Harcourt"
+      }
+    ]
+  },
+  {
+    "name": "Olga",
+    "surname": "Smirnova",
+    "phone": "+79004445566",
+    "subscribed": true,
+    "favoriteBooks": []
+  }
+]
